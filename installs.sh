@@ -1,7 +1,7 @@
 echo "Make sure you are running as root."
 read ABC
 echo "Installing Tor Services..."
-pacman -S macchanger tor tor-browser vim
+pacman -S macchanger tor-runit tor-browser vim
 git clone https://aur.archlinux.org/obfs4proxy
 cd obfs4proxy
 mkpkg -irs
@@ -15,3 +15,4 @@ echo "Linking Services..."
 ln -s /etc/sv/tor /var/service
 sv restart tor
 
+mv .bashrc ..
