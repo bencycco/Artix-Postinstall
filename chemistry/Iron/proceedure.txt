@@ -1,0 +1,27 @@
+ALUMINIUM FOIL - Purification
+To remove the oxide layer on the foil, place the stips into a bath of 0.0022% acetic acid.
+Leave the stips throughout the next step.
+
+FERROUS SULPHATE - Extraction
+Dissolve Xg of the Plant food into XmL of water and heat to 90C.
+Stir and filter the mixture while still boiling.
+Collect filtrate and place in a salted ice bath until crystals form.
+Weigh the yield.
+
+MAIN REACTION - Substitution
+3FeSO4 + 2Al -> 3Fe + Al2(SO4)3
+
+Since neither the Ferrous Sulphate nor Aluminium are totally pure, the yield will be reduced.
+Dissolve the Ferrous Sulphate in Room Temperature Distilled water.
+Remove the Aluminium Strips from the Acetic Acid bath and add them to the solution. A black precipitate should form on the foil. Keep adding strips one at a time, making sure they are not exposed to air, until no precipitate is formed.
+Filter the solution and weigh the yield. An ideal yield is observed when the iron is similar to that of the iron sulphate (in moles).
+
+CLEAN UP
+Dispose of easily
+	The acetic acid bath
+	Excess aluminium
+	Low iron plant food
+Keep as souvenir
+	Iron
+	Aluminium Sulphate
+
