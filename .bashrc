@@ -21,3 +21,11 @@ alias rr='curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/mas
 . "$HOME/.cargo/env"
 
 alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
+alias brba="sh ~/BrBa/main.sh"
+
+chemproj () {
+        mkdir -p "$@"
+        cd "$@"
+        touch proceedure.txt
+        touch materials.txt
+}
